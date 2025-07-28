@@ -15,7 +15,7 @@ A simple console-based quiz game built in Java. It tests your knowledge of Java 
 
 ## 🛠️ Requirements
 
-- Java JDK 8 or higher
+- Java (JDK 8 or higher)
 - Terminal / Command Prompt
 
 ---
